@@ -8,7 +8,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishaw020e&color=brightgreen" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=abhishaw020e&color=blue" alt="Profile Views">
   <img src="https://img.shields.io/badge/Followers-Welcome-blueviolet" alt="Followers">
   <img src="https://img.shields.io/twitter/follow/abhishek836?style=social" alt="Twitter Follow">
 
@@ -23,11 +23,10 @@ Hello! 👋 I'm on a journey to unravel the stories hidden in data. Currently pu
 ## Skills
 
 - **Data Analysis:** Pandas, NumPy
-- **Programming:** Python, R
-- **Visualization:** Matplotlib, Seaborn, Tableau,Power BI, Tableau
+- **Programming:** Python
+- **Visualization:** Matplotlib, Seaborn, Tableau,Power BI, Tableau,Plotly
 - **Machine Learning:** Scikit-learn, TensorFlow
 - **Databases:** SQL
-- ...
 
 
 
