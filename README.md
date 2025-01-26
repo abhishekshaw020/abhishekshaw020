@@ -28,8 +28,8 @@ Hello! 👋 I'm on a journey to unravel the stories hidden in data. Currently pu
 - **Data Analysis:** Pandas, NumPy,OOPS
 - **Programming:** Python
 - **Visualization:** Matplotlib, Seaborn, Tableau,Power BI,Plotly
-- **Machine Learning:** Scikit-learn, TensorFlow
-- **Databases:** MYSQL
+- **Machine Learning:** Scikit-learn
+- **Databases:** MYSQL,SQL Server
 
 
 
