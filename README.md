@@ -61,16 +61,16 @@ Hello! 👋 I'm on a journey to unravel the stories hidden in data. Currently pu
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishaw020e&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekshaw020&show_icons=true&theme=radical" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishaw020e&theme=radical" width="400">
 </p>
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshaw020 e&layout=compact&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshaw020&layout=compact&theme=radical" width="400">
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishekshaw020 e&theme=react-dark" width="600">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishekshaw020&theme=react-dark" width="600">
 </p>
