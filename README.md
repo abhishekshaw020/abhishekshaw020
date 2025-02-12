@@ -62,7 +62,7 @@ Hello! 👋 I'm on a journey to unravel the stories hidden in data. Currently pu
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekshaw020&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishaw020e&theme=radical" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshaw020&theme=radical" width="400">
 </p>
 
 <!-- Most Used Languages -->
