@@ -67,10 +67,10 @@ Hello! 👋 I'm on a journey to unravel the stories hidden in data. Currently pu
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishaw020e&layout=compact&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshaw020 e&layout=compact&theme=radical" width="400">
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishaw020e&theme=react-dark" width="600">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishekshaw020 e&theme=react-dark" width="600">
 </p>
