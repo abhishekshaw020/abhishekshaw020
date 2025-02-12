@@ -72,5 +72,5 @@ Hello! 👋 I'm on a journey to unravel the stories hidden in data. Currently pu
 
 <!-- Activity Graph -->
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishaw020e&theme=react-dark" width="600">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishaw020&theme=react-dark" width="600">
 </p>
