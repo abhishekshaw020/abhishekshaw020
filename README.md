@@ -19,8 +19,6 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishaw020e&color=blue" alt="Profile Views">
-  <img src="https://img.shields.io/badge/Followers-Welcome-blueviolet" alt="Followers">
-  <img src="https://img.shields.io/twitter/follow/abhishek836?style=social" alt="Twitter Follow">
 </p>
 
 ---
@@ -40,7 +38,7 @@ I love working on **machine learning**, **data visualization**, and **business i
 
 Here are some of my notable projects:
 
-- 🚀 **[Food Delivery Time Prediction](https://github.com/abhishekshaw020/Food-Delivery-Time-Prediction)** – Predcting delivery time based on given inputs.
+- 🚀 **[Food Delivery Time Prediction](https://github.com/abhishekshaw020/Food-Delivery-Time-Prediction)** – Predicting delivery time based on given inputs.
 - 📊 **[Student Dropout Analysis](https://www.kaggle.com/code/abhishekshaw020/student-dropout-analysis)** – A machine learning model to predict student dropouts.
 - 📡 **[Global Trends Emission](https://www.kaggle.com/code/abhishekshaw020/global-trends-emission)** – Undestanding the emissions caused with indepth analysis.
 - 🏥 **[Adidas Sales Dashboard](https://github.com/abhishekshaw020/Adidas-Sales-Dashboard)** – In-depth analysis and visualization of Adidas Sales.
@@ -83,7 +81,7 @@ Here are some of my notable projects:
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishaw020/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
+  </a> <br>
   <a href="https://twitter.com/abhishek836" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
