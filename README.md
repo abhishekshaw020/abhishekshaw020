@@ -8,7 +8,7 @@
   <a href="#">📊 Welcome, I'm Abhishek Shaw - Analytics Enthusiast! 📊</a>
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=22&center=true&vCenter=true&lines=Data+Enthusiast+🚀;Transforming+Data+into+Insights+📊;Open+to+Collaboration+🤝" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=20&center=true&vCenter=true&lines=Data+Enthusiast+🚀;Transforming+Data+into+Insights+📊;Open+to+Collaboration+🤝" alt="Typing Animation">
 </p>
 
 <!-- Coding Animation -->
