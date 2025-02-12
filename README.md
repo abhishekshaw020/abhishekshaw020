@@ -1,8 +1,3 @@
-<!-- Logo -->
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*TdbDadpUGgos64SPPwqomA.jpeg" width="300">
-</p>
-
 <!-- Header with Typing Animation -->
 <h1 align="center">
   <a href="#">📊 Welcome, I'm Abhishek Shaw - Analytics Enthusiast! 📊</a>
@@ -84,10 +79,10 @@ Here are some of my notable projects:
   </a> <br>
   <a href="https://twitter.com/abhishek836" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
+  </a> <br>
   <a href="https://medium.com/@abhishekshaw020" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Read%20Blogs-black?style=for-the-badge&logo=medium" alt="Medium">
-  </a>
+  </a> <br>
   <a href="https://hub.docker.com/u/abhishaw020" target="_blank">
     <img src="https://img.shields.io/badge/Docker-View%20Profile-blue?style=for-the-badge&logo=docker" alt="Docker">
   </a>
