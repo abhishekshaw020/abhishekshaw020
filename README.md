@@ -40,22 +40,22 @@ I love working on **machine learning**, **data visualization**, and **business i
 
 Here are some of my notable projects:
 
-- 🚀 **[Amazon Sales Analysis Dashboard](https://github.com/abhishaw020e/amazon-sales-dashboard)** – An interactive Excel dashboard to analyze Amazon sales trends.
-- 📊 **[Student Dropout Analysis](https://www.kaggle.com/datasets/abhishaw020e/student-dropout-analysis)** – A machine learning model to predict student dropouts.
-- 📡 **[Intel Stock Analysis & Forecasting](https://github.com/abhishaw020e/intel-stock-analysis)** – A Streamlit app for time-series forecasting of Intel stock prices.
-- 🏥 **[Hospital Data Analytics](https://github.com/abhishaw020e/hospital-data-analysis)** – In-depth analysis and visualization of hospital datasets using Plotly.
+- 🚀 **[Food Delivery Time Prediction](https://github.com/abhishekshaw020/Food-Delivery-Time-Prediction)** – Predcting delivery time based on given inputs.
+- 📊 **[Student Dropout Analysis](https://www.kaggle.com/code/abhishekshaw020/student-dropout-analysis)** – A machine learning model to predict student dropouts.
+- 📡 **[Global Trends Emission](https://www.kaggle.com/code/abhishekshaw020/global-trends-emission)** – Undestanding the emissions caused with indepth analysis.
+- 🏥 **[Adidas Sales Dashboard](https://github.com/abhishekshaw020/Adidas-Sales-Dashboard)** – In-depth analysis and visualization of Adidas Sales.
 
-🔗 Check out more projects **[here](https://github.com/abhishaw020e?tab=repositories)**!
+🔗 Check out more projects **[here](https://github.com/abhishekshaw020?tab=repositories)**!
 
 ---
 
 ## 📝 Latest Blogs & Articles
 
-📌 **[How to Become a Data Analyst in 2025](https://www.linkedin.com/pulse/how-become-data-analyst-2025-abhishek-shaw/)**  
-📌 **[Formal Corporate Conversation Guide](https://www.linkedin.com/pulse/formal-corporate-conversation-what-say-how-say-abhishek-shaw/)**  
-📌 **[Solving Real-World Problems Using MS Excel](https://www.linkedin.com/pulse/solving-real-world-problems-using-ms-excel-abhishek-shaw/)**  
+📌 **[Agentic AI](https://medium.com/@abhishekshaw020/agentic-ai-the-future-of-intelligent-automation-683dd2355ebf)**  
+📌 **[Formal Corporate Conversation Guide](https://medium.com/@abhishekshaw020/mastering-formal-corporate-conversation-what-to-say-and-how-to-say-it-8fcdbca0c018)**  
+📌 **[How do the Algorithms of Swiggy and Zomato Work?](https://medium.com/@abhishekshaw020/how-do-the-algorithms-of-swiggy-and-zomato-work-6d89dae3f96d)**  
 
-🔗 Read more on **[Medium](https://medium.com/@abhishekshaw020)** or **[LinkedIn](https://www.linkedin.com/in/abhishaw020/posts/)**!
+🔗 Read more on **[Medium](https://medium.com/@abhishekshaw020)** !
 
 ---
 
