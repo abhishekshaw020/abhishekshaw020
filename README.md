@@ -3,12 +3,12 @@
   <img src="https://miro.medium.com/v2/resize:fit:1358/1*TdbDadpUGgos64SPPwqomA.jpeg" width="300">
 </p>
 
-<!-- Header with Animation -->
+<!-- Header with Typing Animation -->
 <h1 align="center">
   <a href="#">📊 Welcome, I'm Abhishek Shaw - Analytics Enthusiast! 📊</a>
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=22&center=true&vCenter=true&lines=Aspiring+Data+Scientist;Transforming+Data+into+Insights;Open+Source+Contributor" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=22&center=true&vCenter=true&lines=Data+Enthusiast+🚀;Transforming+Data+into+Insights+📊;Open+to+Collaboration+🤝" alt="Typing Animation">
 </p>
 
 <!-- Coding Animation -->
@@ -25,27 +25,59 @@
 
 ---
 
-<!-- About Me -->
 ## 🚀 About Me
 
-Hello! 👋 I'm on a journey to unravel the stories hidden in data. Currently pursuing a degree in Analytics, I thrive on challenges that involve crunching numbers and deriving meaningful insights.
+Hello! 👋 I'm a **Data Analytics Enthusiast** with a passion for **solving real-world problems** using data.  
+I love working on **machine learning**, **data visualization**, and **business insights** projects.  
 
-💡 I enjoy working on **real-world projects**, exploring **machine learning**, and creating **data visualizations** that bring numbers to life.
-
----
-
-<!-- Skills with Icons -->
-## 🛠 Skills
-
-- **Data Analysis:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) OOPS
-- **Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **Visualization:** ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-0D76A8?style=for-the-badge&logo=seaborn&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-- **Machine Learning:** ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+- 🎯 I’m always eager to learn and explore new tech.
+- 📈 I share insights and tips about **Data Science & Analytics**.
+- 🤝 Looking for collaborations on **AI & Data Science** projects.
 
 ---
 
-<!-- Connect with Me -->
+## 📌 Featured Projects
+
+Here are some of my notable projects:
+
+- 🚀 **[Amazon Sales Analysis Dashboard](https://github.com/abhishaw020e/amazon-sales-dashboard)** – An interactive Excel dashboard to analyze Amazon sales trends.
+- 📊 **[Student Dropout Analysis](https://www.kaggle.com/datasets/abhishaw020e/student-dropout-analysis)** – A machine learning model to predict student dropouts.
+- 📡 **[Intel Stock Analysis & Forecasting](https://github.com/abhishaw020e/intel-stock-analysis)** – A Streamlit app for time-series forecasting of Intel stock prices.
+- 🏥 **[Hospital Data Analytics](https://github.com/abhishaw020e/hospital-data-analysis)** – In-depth analysis and visualization of hospital datasets using Plotly.
+
+🔗 Check out more projects **[here](https://github.com/abhishaw020e?tab=repositories)**!
+
+---
+
+## 📝 Latest Blogs & Articles
+
+📌 **[How to Become a Data Analyst in 2025](https://www.linkedin.com/pulse/how-become-data-analyst-2025-abhishek-shaw/)**  
+📌 **[Formal Corporate Conversation Guide](https://www.linkedin.com/pulse/formal-corporate-conversation-what-say-how-say-abhishek-shaw/)**  
+📌 **[Solving Real-World Problems Using MS Excel](https://www.linkedin.com/pulse/solving-real-world-problems-using-ms-excel-abhishek-shaw/)**  
+
+🔗 Read more on **[Medium](https://medium.com/@abhishekshaw020)** or **[LinkedIn](https://www.linkedin.com/in/abhishaw020/posts/)**!
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekshaw020&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshaw020&theme=radical" width="400">
+</p>
+
+<!-- Working GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekshaw020&theme=react-dark" width="600">
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshaw020&layout=compact&theme=radical" width="400">
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -55,19 +87,14 @@ Hello! 👋 I'm on a journey to unravel the stories hidden in data. Currently pu
   <a href="https://twitter.com/abhishek836" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
+  <a href="https://medium.com/@abhishekshaw020" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Read%20Blogs-black?style=for-the-badge&logo=medium" alt="Medium">
+  </a>
+  <a href="https://hub.docker.com/u/abhishaw020" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-View%20Profile-blue?style=for-the-badge&logo=docker" alt="Docker">
+  </a>
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekshaw020&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshaw020&theme=radical" width="400">
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshaw020&layout=compact&theme=radical" width="400">
-</p>
-
-
+🔥 _Thanks for stopping by! Keep learning & keep growing!_ 🚀
