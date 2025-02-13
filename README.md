@@ -39,16 +39,41 @@ I love working on **machine learning**, **data visualization**, and **business i
 
 ---
 
-## 📌 Featured Projects
+## 🎯 Featured Projects 🚀  
 
-Here are some of my notable projects:
+✨ Here are some of my **most exciting** projects! Each one is crafted with precision, analytics, and creativity. 🎨📊  
 
-- 🚀 **[Food Delivery Time Prediction](https://github.com/abhishekshaw020/Food-Delivery-Time-Prediction)** – Predicting delivery time based on given inputs.
-- 📊 **[Student Dropout Analysis](https://www.kaggle.com/code/abhishekshaw020/student-dropout-analysis)** – A machine learning model to predict student dropouts.
-- 📡 **[Global Trends Emission](https://www.kaggle.com/code/abhishekshaw020/global-trends-emission)** – Undestanding the emissions caused with indepth analysis.
-- 🏥 **[Adidas Sales Dashboard](https://github.com/abhishekshaw020/Adidas-Sales-Dashboard)** – In-depth analysis and visualization of Adidas Sales.
+---
 
-🔗 Check out more projects **[here](https://github.com/abhishekshaw020?tab=repositories)**!
+🎯 **[🚀 Food Delivery Time Prediction](https://github.com/abhishekshaw020/Food-Delivery-Time-Prediction){:target="_blank"}**  
+📦 Predicting **delivery time** based on key factors like distance, weather, and traffic.  
+🌟 **Tech Used:** Python, Machine Learning, Data Analysis  
+🎥 **Live Preview:** _Coming Soon_  
+
+🧑‍🎓 **[📊 Student Dropout Analysis](https://www.kaggle.com/code/abhishekshaw020/student-dropout-analysis){:target="_blank"}**  
+🎓 A powerful **machine learning model** to predict student dropout rates based on academic performance and other factors.  
+📈 **Tech Used:** Python, ML Algorithms, Data Visualization   
+
+🌍 **[📡 Global Trends Emission](https://www.kaggle.com/code/abhishekshaw020/global-trends-emission){:target="_blank"}**  
+🔥 A deep dive into **global emissions data**, uncovering patterns in pollution and climate trends.  
+🔍 **Tech Used:** Python, Data Science, Geospatial Analysis  
+📌 **Findings:** Identified high-risk emission zones & trends  
+
+👟 **[🏥 Adidas Sales Dashboard](https://github.com/abhishekshaw020/Adidas-Sales-Dashboard){:target="_blank"}**  
+📊 A **visually appealing interactive dashboard** to analyze Adidas’ global sales performance.  
+🛒 **Tech Used:** Excel, Power BI, Data Visualization  
+📈 **Key Insights:** Revenue trends, top-performing products  
+
+---
+
+🌟 **Want More?**  
+Check out my **entire collection of projects** 🔥  
+🔗 **[Click Here!](https://github.com/abhishekshaw020?tab=repositories){:target="_blank"}**  
+
+---
+
+🚀 Stay tuned for **new projects & innovations!** 🌍💡  
+
 
 ---
 
