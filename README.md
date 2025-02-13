@@ -45,21 +45,21 @@ I love working on **machine learning**, **data visualization**, and **business i
 
 ---
 
-🎯 **[🚀 Food Delivery Time Prediction](https://github.com/abhishekshaw020/Food-Delivery-Time-Prediction){:target="_blank"}**  
+🎯 **[🚀 Food Delivery Time Prediction](https://github.com/abhishekshaw020/Food-Delivery-Time-Prediction)**  
 📦 Predicting **delivery time** based on key factors like distance, weather, and traffic.  
 🌟 **Tech Used:** Python, Machine Learning, Data Analysis  
 🎥 **Live Preview:** _Coming Soon_  
 
-🧑‍🎓 **[📊 Student Dropout Analysis](https://www.kaggle.com/code/abhishekshaw020/student-dropout-analysis){:target="_blank"}**  
+🧑‍🎓 **[📊 Student Dropout Analysis](https://www.kaggle.com/code/abhishekshaw020/student-dropout-analysis)**  
 🎓 A powerful **machine learning model** to predict student dropout rates based on academic performance and other factors.  
 📈 **Tech Used:** Python, ML Algorithms, Data Visualization   
 
-🌍 **[📡 Global Trends Emission](https://www.kaggle.com/code/abhishekshaw020/global-trends-emission){:target="_blank"}**  
+🌍 **[📡 Global Trends Emission](https://www.kaggle.com/code/abhishekshaw020/global-trends-emission)**  
 🔥 A deep dive into **global emissions data**, uncovering patterns in pollution and climate trends.  
 🔍 **Tech Used:** Python, Data Science, Geospatial Analysis  
 📌 **Findings:** Identified high-risk emission zones & trends  
 
-👟 **[🏥 Adidas Sales Dashboard](https://github.com/abhishekshaw020/Adidas-Sales-Dashboard){:target="_blank"}**  
+👟 **[🏥 Adidas Sales Dashboard](https://github.com/abhishekshaw020/Adidas-Sales-Dashboard)**  
 📊 A **visually appealing interactive dashboard** to analyze Adidas’ global sales performance.  
 🛒 **Tech Used:** Excel, Power BI, Data Visualization  
 📈 **Key Insights:** Revenue trends, top-performing products  
@@ -68,7 +68,7 @@ I love working on **machine learning**, **data visualization**, and **business i
 
 🌟 **Want More?**  
 Check out my **entire collection of projects** 🔥  
-🔗 **[Click Here!](https://github.com/abhishekshaw020?tab=repositories){:target="_blank"}**  
+🔗 **[Click Here!](https://github.com/abhishekshaw020?tab=repositories)**  
 
 ---
 
